@@ -169,24 +169,21 @@ plt.show()
 ---
 
 ##  Output
-<img width="657" height="387" alt="image" src="https://github.com/user-attachments/assets/adca6a72-af7e-4fb0-ae61-6637f56e2bef" />
+<img width="567" height="431" alt="image" src="https://github.com/user-attachments/assets/28945605-8150-4611-abb7-8222534cb54c" />
 
-<img width="665" height="495" alt="image" src="https://github.com/user-attachments/assets/80dc6300-f16b-49fc-abb9-af00afdf92ea" />
+<img width="578" height="432" alt="image" src="https://github.com/user-attachments/assets/95ceb435-f077-4149-ab77-85531588ae0b" />
 
-<img width="676" height="517" alt="image" src="https://github.com/user-attachments/assets/e9789b45-0f10-4298-92c9-8e45c4717aec" />
+<img width="577" height="430" alt="image" src="https://github.com/user-attachments/assets/4e0a7e37-754f-4eae-9e8b-8d0ab1bcc9f7" />
 
-<img width="650" height="397" alt="image" src="https://github.com/user-attachments/assets/f2fbad8f-b6aa-477f-a26b-bd66ea507813" />
+<img width="572" height="438" alt="image" src="https://github.com/user-attachments/assets/9bd2e482-2c0b-4475-8298-0130828a3b81" />
 
-<img width="650" height="375" alt="image" src="https://github.com/user-attachments/assets/ff160f2a-d418-4b72-8661-fa71c332596b" />
+<img width="577" height="431" alt="image" src="https://github.com/user-attachments/assets/ebe50221-649f-4436-9c43-aab3b808a5d5" />
 
-<img width="655" height="480" alt="image" src="https://github.com/user-attachments/assets/94a30bc4-0d1a-4f58-ade8-7e1f127928ef" />
+<img width="601" height="430" alt="image" src="https://github.com/user-attachments/assets/c12b4eef-bc1d-486d-b1b7-ba66f64fa1a9" />
 
-<img width="1222" height="342" alt="image" src="https://github.com/user-attachments/assets/989b0cf9-b456-4de0-9ac9-e0ef861777c5" />
+<img width="1012" height="308" alt="image" src="https://github.com/user-attachments/assets/91d57091-5d3a-44c1-842d-4cfb0a1bf079" />
 
-<img width="1240" height="391" alt="image" src="https://github.com/user-attachments/assets/a79bb0e7-593e-411d-b1ae-3092d09d22fd" />
-
-
-
+<img width="995" height="300" alt="image" src="https://github.com/user-attachments/assets/b3903e9f-0c6d-4106-a157-58e74714affa" />
 
 
 ### Grayscale Histogram Equalization
